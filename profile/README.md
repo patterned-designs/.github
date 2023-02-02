@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://registry.terraform.io/namespaces/patterned-designs">
-    <img alt="terraform registry" src="./badges/licensing.svg" />
+    <img alt="terraform registry" src="./badges/registry.svg" />
   </a>
   <a href="https://github.com/patterned-designs/licensing">
     <img alt="documentation" src="./badges/licensing.svg" />
