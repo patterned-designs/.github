@@ -11,11 +11,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/patterned-designs/licensing">
-    <img alt="documentation" src="./badges/licensing.svg" />
-  </a>
-  <a href="https://github.com/patterned-designs/licensing">
-    <img alt="documentation" src="./badges/licensing.svg" />
+  <a href="https://registry.terraform.io/namespaces/patterned-designs">
+    <img alt="terraform registry" src="./badges/licensing.svg" />
   </a>
   <a href="https://github.com/patterned-designs/licensing">
     <img alt="documentation" src="./badges/licensing.svg" />
