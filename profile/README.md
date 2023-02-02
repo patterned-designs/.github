@@ -15,12 +15,12 @@
     <img alt="terraform registry" src="./badges/registry.svg" />
   </a>
   <a href="https://github.com/patterned-designs/licensing">
-    <img alt="documentation" src="./badges/licensing.svg" />
+    <img alt="licensing" src="./badges/licensing.svg" />
   </a>
-  <a href="https://github.com/patterned-designs/licensing">
-    <img alt="documentation" src="./badges/licensing.svg" />
+  <a href="https://github.com/patterned-designs/docs">
+    <img alt="documentation" src="./badges/documentation.svg" />
   </a>
-  <a href="https://github.com/patterned-designs/licensing">
-    <img alt="documentation" src="./badges/licensing.svg" />
+  <a href="https://gitlab.com/patterned-designs/">
+    <img alt="gitlab mirror" src="./badges/gitlab.svg" />
   </a>
 </div>
