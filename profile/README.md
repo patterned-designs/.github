@@ -20,7 +20,12 @@
   <a href="https://github.com/patterned-designs/docs">
     <img alt="documentation" src="./badges/documentation.svg" />
   </a>
+</div>
+<div align="center">
+  <a href="https://github.com/patterned-designs/">
+    <img alt="github organization" src="./badges/gitlab.svg" />
+  </a>
   <a href="https://gitlab.com/patterned-designs/">
-    <img alt="gitlab mirror" src="./badges/gitlab.svg" />
+    <img alt="gitlab group" src="./badges/gitlab.svg" />
   </a>
 </div>
